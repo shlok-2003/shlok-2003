@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/Leetcode-%23323330.svg?logo=leetcode&logoColor=orange" alt="Shlok Prajapati | Leetcode">
     </a>&nbsp;&nbsp;
     <a href="https://codeforces.com/profile/shlok_prajapati">
-      <img src="https://img.shields.io/badge/Codeforces-%23E34F26.svg?logo=codeforces&logoColor=%2300f" alt="Shlok Prajapati | Codeforces">
+      <img src="https://img.shields.io/badge/Codeforces-%23E34F26.svg?logo=codeforces&logoColor=%red" alt="Shlok Prajapati | Codeforces">
     </a>&nbsp;&nbsp;
 </p>
 
