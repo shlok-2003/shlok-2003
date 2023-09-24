@@ -1,4 +1,4 @@
-<h1 align="center" >Hi 👋, I'm Shlok Prajapati</h1>
+<h1 align="center" style="color: black;"> Hi 👋, I'm Shlok Prajapati </h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=A177FE&width=350&center=true&width=480&lines=%3C+Full+Stack+Developer+%2F%3E;%3C+AI+Enthusiast+%2F%3E">
