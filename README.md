@@ -20,6 +20,9 @@
     <a href="https://codeforces.com/profile/shlok_prajapati">
       <img src="https://img.shields.io/badge/Codeforces-%23E34F26.svg?logo=codeforces&logoColor=%red" alt="Shlok Prajapati | Codeforces">
     </a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/shlokprajapati2003/">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Shlok Prajapati | Instagram">
+    </a>&nbsp;&nbsp;
 </p>
 
 <img align="right" alt="Coding" width="200" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
