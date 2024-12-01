@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **React, Blockchain, DSA, CP**
+- 💬 Ask me about **React, App Dev, DSA, CP**
 
 - 📫 How to reach me **shlokprajapati2003@gmail.com**
 
