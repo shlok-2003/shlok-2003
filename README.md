@@ -28,7 +28,7 @@
 <img align="right" alt="Coding" width="200" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shlok-2003&label=Profile%20views&color=0e75b6&style=flat" alt="shlok-2003" /> </p>
 
-- 🌱 I’m currently learning **React Native / Blockchain**
+- 🌱 I’m currently learning **React Native / Gen AI**
 
 - 💬 Ask me about **React, App Dev, DSA, CP**
 
